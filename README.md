@@ -13,4 +13,5 @@ agent = uot_biu_agent.UOT_BIU_Agent("name_suffix") <br>
 ## To Train:
 python run_agent_trainer.py
 
-
+## To Run Tournament Test:
+python run_tournament_for_example.py
