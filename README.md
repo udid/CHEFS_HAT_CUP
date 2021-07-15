@@ -1,4 +1,4 @@
-# Chef's Hat Cup TRACK 1 - UOT_BUI agent 
+# Chef's Hat Cup Track 1 - UOT_BUI agent 
 
 ## To install the agent libraries:
 pip install -r requirements.txt
