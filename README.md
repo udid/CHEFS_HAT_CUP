@@ -4,8 +4,8 @@
 pip install -r requirements.txt
 
 ## To Import:
-import uot_biu_agent
-agent = uot_biu_agent.UOT_BIU_Agent("name_suffix")   
+import uot_biu_agent<br>
+agent = uot_biu_agent.UOT_BIU_Agent("name_suffix") <br>  
 <br>
 * The name prefix is UOT_BIU_
 * The agent impl IAgent interface (getAction, actionUpdate, observeOthers, getReward)
